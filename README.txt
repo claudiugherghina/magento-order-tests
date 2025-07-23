@@ -11,8 +11,7 @@ This project contains automated test scripts for the regression scenarios of the
 - GitHub
 
 ## Included Scenarios
-- Login
 - Add to cart
 - Checkout process
-- Success confirmation
-- Negative case – missing input
+
+
